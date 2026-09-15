@@ -1,7 +1,7 @@
 # Welcome to my personal blog!
  Most of my blog is in Indonesian. You can always translate it to English.
 
-## Latest Article
+## Latest Blog
 
 <ul>
   {% for post in site.posts %}
@@ -11,4 +11,3 @@
     </li>
   {% endfor %}
 </ul>
-
