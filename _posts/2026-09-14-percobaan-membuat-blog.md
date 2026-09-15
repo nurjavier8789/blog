@@ -7,7 +7,8 @@ author: "nurjavier1660"
 tags: [welcome]
 ---
 
-# Selamat datang di blogku!
+### Selamat datang di blogku!
+Ini adalah blog pertamaku!\
 Jadi, hari ini aku mencoba sesuatu yang baru. Karena aku gabut jadi ya... begitu lah :v
 
 Seharusnya kemarin sih jadinya, cuma udah malem jadi aku lanjutin hari ini. Aku lagi gabut aja gak tau mau diisi apaan, tetapi aku ada rencana buat diisi sama hasil projekku atau review videoku yang di channel utama atau kalau gabut lagi aku isi tutorial.
