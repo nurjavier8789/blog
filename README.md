@@ -1,7 +1,7 @@
-# blog
-My personal blog for anything
+# Welcome to my personal blog!
+ Most of my blog is in Indonesian. You can always translate it to English.
 
-## Artikel Terbaru
+## Latest Article
 
 <ul>
   {% for post in site.posts %}
