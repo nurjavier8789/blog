@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to my personal blog!
  Most of my blog is in Indonesian. You can always translate it to English.
 

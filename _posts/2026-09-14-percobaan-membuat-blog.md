@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Percobaan Membuat Blog"
 date: 2026-09-15
 categories: [my-story]
