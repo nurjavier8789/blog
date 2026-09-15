@@ -1,3 +1,21 @@
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: white;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom, #00c3ff, #00ade2, #0097c5);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(0, 160, 210);
+    background: linear-gradient(to bottom, #0097c5, #00ade2, #00c3ff);
+}
+
 @font-face {
     font-family: 'Google Sans Regular';
     font-style: normal;
@@ -13,11 +31,11 @@ body {
 }
 
 header h1 a {
-    color: #2c3e50 !important;
+    color: white !important;
     text-decoration: none;
 }
 
 footer {
-    color: #7f8c8d;
+    background-color: #2E2E2E;
     font-size: 0.9em;
 }
