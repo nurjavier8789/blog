@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Percobaan Membuat Blog"
 date: 2026-09-15
 categories: [my-story]
@@ -8,4 +8,4 @@ tags: [welcome]
 ---
 
 # Selamat datang di blogku!
-Jadi, hari ini aku mencoba sesuatu yang baru.
+Jadi, hari ini aku mencoba sesuatu yang baru. Karena aku gabut jadi ya... begitu lah :v
