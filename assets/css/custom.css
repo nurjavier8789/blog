@@ -35,7 +35,10 @@ header h1 a {
     text-decoration: none;
 }
 
+section {
+    color: white;
+}
+
 footer {
-    background-color: #2E2E2E;
     font-size: 0.9em;
 }
