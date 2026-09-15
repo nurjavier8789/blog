@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<header style="margin-bottom: 30px; border-bottom: 1px solid #444; padding-bottom: 15px;">
+<header style="margin-bottom: 30px; padding-bottom: 15px;">
     <h1 style="margin-bottom: 5px;">{{ page.title }}</h1>
     <p style="color: #a0a0a0; font-size: 0.9em; margin-top: 0;">
-        <strong>{{ page.author | default: site.author }}</strong> &nbsp;&bull;&nbsp;  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time>
+        <b>{{ page.author | default: site.author }}</b> &nbsp;&bull;&nbsp; <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time>
     </p>
 </header>
 
