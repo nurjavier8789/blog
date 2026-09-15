@@ -1,12 +1,12 @@
-@font-face {
+/* @font-face {
     font-family: 'Google Sans Regular';
     font-style: normal;
     font-weight: normal;
     src: local('Google Sans Regular'), url('fonts/Google-sans.woff') format('woff');
-}
+} */
 
 body {
-    font-family: 'Google Sans Regular';
+    /* font-family: 'Google Sans Regular'; */
     margin: 0;
     background: #383838;
     color: white;
