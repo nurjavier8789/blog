@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #444;">
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <div style="text-align: left; width: 33%;">
+        {% if page.previous.url %}
+        <a href="{{ page.previous.url | relative_url }}" style="text-decoration: none; color: #3498db;">&laquo; Sebelumnya</a>
+        {% endif %}  
+    </div>
+    
+    <div style="text-align: center; width: 33%;">
+        <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: #e1e4e8;"> Beranda</a>
+    </div>
+    
+    <div style="text-align: right; width: 33%;">
+        {% if page.next.url %}
+        <a href="{{ page.next.url | relative_url }}" style="text-decoration: none; color: #3498db;">Selanjutnya &raquo;</a>
+        {% endif %}
+    </div>
+</div>
