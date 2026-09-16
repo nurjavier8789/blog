@@ -4,3 +4,5 @@ theme: jekyll-theme-minimal
 url: "https://nurjavier8789.github.io"
 baseurl: "/blog"
 author: "Nur Javier Prasetyo"
+plugins:
+  - jekyll-sitemap
