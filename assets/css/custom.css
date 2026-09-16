@@ -1,6 +1,7 @@
 :root {
     --bg-color: #ffffff;
     --text-main: #333333;
+    --text-main-invert: #e0e0e0;
     --border-color: #e1e4e8;
     --link-color: #0366d6;
 }
@@ -8,6 +9,7 @@
 [data-theme="dark"] {
     --bg-color: #383838;
     --text-main: #e0e0e0;
+    --text-main-invert: #333333;
     --border-color: #444444;
     --link-color: rgb(0, 195, 255);
 }
