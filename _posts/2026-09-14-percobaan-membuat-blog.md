@@ -15,4 +15,4 @@ Seharusnya kemarin sih jadinya, cuma udah malem jadi aku lanjutin hari ini. Aku 
 
 Semoga blog ini bisa ke isi terus, bermanfaat buat yang lain dan jadi dokumentasiku dimasa mendatang.
 
-I'll see you next blog!
+I'll see you on the next blog!

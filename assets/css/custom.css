@@ -1,3 +1,17 @@
+:root {
+    --bg-color: #ffffff;
+    --text-main: #333333;
+    --border-color: #e1e4e8;
+    --link-color: #0366d6;
+}
+
+[data-theme="dark"] {
+    --bg-color: #383838;
+    --text-main: #e0e0e0;
+    --border-color: #444444;
+    --link-color: rgb(0, 195, 255);
+}
+
 ::-webkit-scrollbar {
     width: 5px;
     height: 5px;
@@ -26,25 +40,51 @@
 body {
     font-family: 'Google Sans Regular';
     margin: 0;
-    background: #383838;
-    color: white;
+    background-color: var(--bg-color) !important;
+    color: var(--text-main) !important;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-header h1 a {
-    color: white !important;
-    text-decoration: none;
+hr, header, div {
+    border-color: var(--border-color) !important;
+}
+
+a {
+    color: var(--link-color);
+}
+
+header h1 {
+    color: var(--text-main) !important;
 }
 
 section h1, h2, h3, h4, h5, h6 {
-    color: white;
+    color: var(--text-main) !important;
+}
+
+#theme-toggle {
+    background-color: transparent;
+    color: var(--text-main);
+    border: 1px solid var(--border-color);
+    padding: 5px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: inherit;
+    margin-bottom: 20px;
+    transition: all 0.2s ease;
+}
+
+#theme-toggle:hover {
+    background-color: var(--text-main);
+    color: var(--bg-color);
 }
 
 section p {
-    color: #f1f1f1;
+    color: var(--text-main) !important;
 }
 
 section a {
-    color: white;
+    color: var(--link-color) !important;
     text-decoration: underline;
 }
 
