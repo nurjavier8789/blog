@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Percobaan Membuat Blog
-date: 2026-09-15
-categories: [my-story]
+title: Custom Discord Rich Presence
+date: 2026-09-23
+categories: [tutorial]
 author: nurjavier1660
-tags: [welcome]
+tags: [discord, how to, custom, diy]
 ---
 
 #
