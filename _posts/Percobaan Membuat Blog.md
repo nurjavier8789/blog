@@ -13,5 +13,11 @@ Pernah gak sih kalian kepikiran untuk membuat tulisan custom di samping kata "Pl
 
 Kali ini aku mau sharing cara membuat Custom Discord Rich Presence menggunakan node.js!
 
----
-sjjdie:ksjw
+# Persiapan
+Yang perlu kalian siapkan yaitu:
+- Laptop/PC
+- [Node.js](https://nodejs.org)
+- IDE/Tampat untuk coding (VSCode, notepad++, dkk.)
+- Discord (pasti)
+
+# Menyiapkan discord application
