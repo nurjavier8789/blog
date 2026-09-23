@@ -21,3 +21,4 @@ Yang perlu kalian siapkan yaitu:
 - Discord (pasti)
 
 # Menyiapkan discord application
+kaish
