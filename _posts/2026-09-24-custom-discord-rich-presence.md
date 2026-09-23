@@ -22,4 +22,10 @@ Yang perlu kalian siapkan yaitu:
 
 # Menyiapkan discord application
 1. Pergi ke website [Discord Developer Portal](https://discord.com/developers/applications) kemudian buat aplikasi baru
-![Image](./ce3831213da8d729d50621e2da16d29e.jpg)
+![Step 1 - buat aplikasi di Discord](./ce3831213da8d729d50621e2da16d29e.jpg)
+
+2. Buat nama terserah kalian. Nama itu yang akan muncul di sebelah kata "Playing" atau "Listening to" (Contoh: "Playing `Terserah kalian`"
+![Step 2 - Kasih nama bebas](./0934864918eefb4a6a5b681aa75fa349.jpg)
+
+3. Buka aplikasi yang barusan kalian buat. Kemudian buka "Rich Presence
+![Image](./8ed73563a1524f5910e3d584b523562c.jpg)
