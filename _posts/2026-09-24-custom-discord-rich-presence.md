@@ -21,3 +21,5 @@ Yang perlu kalian siapkan yaitu:
 - Discord (pasti)
 
 # Menyiapkan discord application
+1. Pergi ke website [Discord Developer Portal](https://discord.com/developers/applications) kemudian buat aplikasi baru
+![Image](./ce3831213da8d729d50621e2da16d29e.jpg)
