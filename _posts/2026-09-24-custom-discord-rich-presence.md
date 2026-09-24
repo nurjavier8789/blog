@@ -22,7 +22,7 @@ Yang perlu kalian siapkan yaitu:
 
 # Menyiapkan discord application
 1. Pergi ke website [Discord Developer Portal](https://discord.com/developers/applications) kemudian buat aplikasi baru
-![Step 1 - buat aplikasi di Discord](./ce3831213da8d729d50621e2da16d29e.jpg)
+![Step 1 - buat aplikasi di Discord](/assets/images/discord-rpc-tutorial/1-devport.jpg)
 
 2. Buat nama terserah kalian. Nama itu yang akan muncul di sebelah kata "Playing". Tapi bisa diganti juga saat coding nanti. (Contoh: "Playing `Terserah kalian`")
 ![Step 2 - Kasih nama bebas](./0934864918eefb4a6a5b681aa75fa349.jpg)
