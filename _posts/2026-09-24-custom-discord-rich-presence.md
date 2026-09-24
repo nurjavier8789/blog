@@ -4,7 +4,7 @@ title: Custom Discord Rich Presence
 date: 2026-09-24
 categories: [tutorial]
 author: nurjavier1660
-tags: [discord, how to, custom, diy]
+tags: [discord, how to, custom, diy, rpc, discord-rpc]
 ---
 
 [Cek source codenya disini!](https://github.com/nurjavier8789/discord-presence-js)
@@ -22,20 +22,20 @@ Yang perlu kalian siapkan yaitu:
 
 # Menyiapkan discord application
 1. Pergi ke website [Discord Developer Portal](https://discord.com/developers/applications) kemudian buat aplikasi baru
-![Step 1 - buat aplikasi di Discord](/assets/images/discord-rpc-tutorial/1-devport.jpg)
+![Step 1 - buat aplikasi di Discord]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/1-devport.jpg)
 
 2. Buat nama terserah kalian. Nama itu yang akan muncul di sebelah kata "Playing". Tapi bisa diganti juga saat coding nanti. (Contoh: "Playing `Terserah kalian`")
-![Step 2 - Kasih nama bebas](./0934864918eefb4a6a5b681aa75fa349.jpg)
+![Step 2 - Kasih nama bebas]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/2-devport.jpg)
 
 3. Buka aplikasi yang barusan kalian buat. Kemudian buka tab "Rich Presence > Art Assets" setelah itu kalian bisa tambahin gambar terserah kalian.
-![Step 3 - Upload gambar](./8ed73563a1524f5910e3d584b523562c.jpg)(Catatan: Saat upload gambar pastikan kalian kasih nama yang gampang biar enak ngodingnya.)\
+![Step 3 - Upload gambar]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/3-devport.jpg)(Catatan: Saat upload gambar pastikan kalian kasih nama yang gampang biar enak ngodingnya.)\
 (Catatan lagi: Jika saat kalian refresh halamannya dan gambar hilang, wajar saja karena discord masih memprosesnya. Tunggu beberapa menit setelah itu gambar kalian muncul kembali)
 
 **Sedikit saran:**
 - Kalian bisa cek gimana nanti bentuk presencenya di tab "Rich Presence > Visualizer"!
-![Preview Rich Presence](./60ba784a68bf8c81d25d217d6a78e1f1.jpg)
+![Preview Rich Presence]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/4-devport.jpg)
 - Pastikan kalian menyimpan Application ID aplikasi kalian. Karena akan dibutuhkan saat ngoding nantinya!
-![Image](./38c909839460b84806e2e05812a16a20.jpg)
+![Tempat App ID]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/5-devport.jpg)
 
 # Persiapan sebelum ngoding
 1. Buatlah folder kosong dimanapun
@@ -55,11 +55,11 @@ Ketika kalian selesai ngoding, simpan filenya kemudian kembali ke terminal/cmd y
 
 # Setelah ngoding
 Hasilnya akan terlihat seperti ini!
-![RPC pada profile](./b5537ec567e8451ffe7f799cc58d1a0a.jpg)
-![RPC pada pop up profile](./5338b0acabf60c14fd868a2a34deb346.jpg)
+![RPC pada profile]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/6-hasil.jpg)
+![RPC pada pop up profile]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/7-hasil.jpg)
 Lah terus mana buttonnya?\
 Button hanya terlihat pada teman kalian. Pada POV kalian memang tidak terlihat tetapi teman kalian sebenarnya bisa melihatnya!
-![POV teman kalian](./c6d74777a2407249d530f244e26856b5.jpg)
+![POV teman kalian]({{ site.baseurl }}/assets/images/discord-rpc-tutorial/8-hasil.jpg)
 
 ---
 Sekian untuk tutorial kali ini!\
