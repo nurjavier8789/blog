@@ -45,4 +45,23 @@ Yang perlu kalian siapkan yaitu:
     - `npm init`, jika tidak ingin ribet `npm init -y`
 4. Buat file baru bernama bebas dengan akhiran `.js`. Pastikan pada settingan File explorer kalian bisa lihat extension file!
 5. Buka file yang barusan kalian buat di VSCode atau notepad++ atau semacamnya
-6. Ketik codenya seperti code dibawah ini
+
+# Coding
+Ketik codenya seperti code dibawah ini
+<script src="https://gist.github.com/nurjavier8789/07baa7bdfbd74a46e6ff0d7a93bffbc0.js"></script>
+Client ID disini adalah Application ID kalian masing-masing ya!\
+Codingan bisa kalian sesuaikan dengan preferensi kalian masing-masing.\
+Ketika kalian selesai ngoding, simpan filenya kemudian kembali ke terminal/cmd yang sebelumnya kemudian ketikan `node .` atau `node nama_file_kalian.js` dan tunggu hasilnya!
+
+# Setelah ngoding
+Hasilnya akan terlihat seperti ini!
+![RPC pada profile](./b5537ec567e8451ffe7f799cc58d1a0a.jpg)
+![RPC pada pop up profile](./5338b0acabf60c14fd868a2a34deb346.jpg)
+Lah terus mana buttonnya?\
+Button hanya terlihat pada teman kalian. Pada POV kalian memang tidak terlihat tetapi teman kalian sebenarnya bisa melihatnya!
+![POV teman kalian](./c6d74777a2407249d530f244e26856b5.jpg)
+
+---
+Sekian untuk tutorial kali ini!\
+Jika ada yang ditanyakan tanyakan saja di discord gwej yak ;) (Discord: nyrjavier8789)\
+Have an ice day!
