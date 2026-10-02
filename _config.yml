@@ -1,8 +1,8 @@
 title: "nurjavier1660's Blog!"
 description: "Making something interesting, unique, and useful since 2022."
 theme: jekyll-theme-minimal
-url: "https://nurjavier8789.github.io"
-baseurl: "/blog"
+url: "https://blog.nurjavier1660.my.id"
+baseurl: ""
 author: "Nur Javier Prasetyo"
 plugins:
   - jekyll-sitemap
