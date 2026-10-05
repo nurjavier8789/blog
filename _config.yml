@@ -3,6 +3,24 @@ description: "Making something interesting, unique, and useful since 2022."
 theme: jekyll-theme-minimal
 url: "https://blog.nurjavier1660.my.id"
 baseurl: ""
-author: "Nur Javier Prasetyo"
+author:
+  name: "Nur Javier Prasetyo"
+  twitter: "nur_javier"
+logo: "assets/images/favicon.png"
+lang: "id-ID"
+timezone: "Asia/Jakarta"
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:categories/:title
+social:
+  name: "Nur Javier Prasetyo"
+  links:
+    - https://github.com/nurjavier8789
+    - https://instagram.com/nurjavier1660
+    - https://linkedin.com/in/nurjavier1660
+    - https://youtube.com/@nurjavier1660
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
