@@ -2,9 +2,18 @@
 layout: post
 title: Custom Discord Rich Presence
 date: 2026-09-24
-categories: [tutorial]
+categories:
+  - tutorial
 author: nurjavier1660
-tags: [discord, how to, custom, diy, rpc, discord-rpc]
+tags:
+  - discord
+  - custom
+  - diy
+  - rpc
+  - discord-rpc
+  - how-to
+  - nodejs
+  - javascript
 ---
 
 [Cek source codenya disini!](https://github.com/nurjavier8789/discord-presence-js)
